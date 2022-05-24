@@ -1,0 +1,13 @@
+eit-info-overlay {
+    margin-right: 1rem;
+    --eit-info-overlay-icon-color: #fff;
+    --eit-info-overlay-background-color: #39f;
+}
+
+dile-modal {
+    --dile-modal-background-color: rgba(50, 150, 200, 0.3);
+    --dile-modal-content-background-color: #39f;
+    --dile-modal-close-icon-color: white;
+    --dile-modal-close-icon-top: 1rem;
+    --dile-modal-content-padding: 2rem;
+}
